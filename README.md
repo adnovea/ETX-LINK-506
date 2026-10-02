@@ -2,6 +2,7 @@
 
 ETX Link 506 for Stellarium Plus (mobile)
 
+![image](FQBJNFGMULLV49W.webp)
 
 
 ## **SCOPE OF PROJECT**
