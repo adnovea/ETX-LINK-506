@@ -67,7 +67,7 @@
 
   TROUBLESHOOTING
   ==========================
-   "Handler did not handle the request"   Clear cache and relog
+   Still under development
 
 
 ***********************************************************************/
